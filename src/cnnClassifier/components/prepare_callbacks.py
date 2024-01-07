@@ -1,4 +1,5 @@
 import os
+from cnnClassifier.entity.config_entity import PrepareCallbackConfig
 import urllib.request as request
 from zipfile import ZipFile
 import tensorflow as tf
