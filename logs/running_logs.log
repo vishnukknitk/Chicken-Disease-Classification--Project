@@ -334,3 +334,277 @@ x========x]
 [2024-01-07 11:05:30,721: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x========x]
+[2024-01-07 12:33:39,939: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 12:33:42,256: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 12:43:25,403: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 12:43:25,406: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 12:43:25,407: INFO: common: Created directory at: artifacts]
+[2024-01-07 12:44:05,937: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 12:44:05,939: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 12:44:05,940: INFO: common: Created directory at: artifacts]
+[2024-01-07 12:45:06,009: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 12:45:06,012: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 12:45:06,013: INFO: common: Created directory at: artifacts]
+[2024-01-07 12:45:06,014: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 12:45:06,015: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 12:47:45,529: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 12:47:45,531: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 12:47:45,533: INFO: common: Created directory at: artifacts]
+[2024-01-07 12:47:45,533: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 12:47:45,534: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 12:50:12,354: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 12:50:12,356: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 12:50:12,358: INFO: common: Created directory at: artifacts]
+[2024-01-07 12:50:12,359: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 12:50:12,360: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 12:55:09,745: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 12:55:09,749: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 12:55:09,750: INFO: common: Created directory at: artifacts]
+[2024-01-07 12:55:09,751: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 12:55:09,752: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 12:56:35,572: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 12:56:35,574: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 12:56:35,575: INFO: common: Created directory at: artifacts]
+[2024-01-07 12:56:35,576: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 12:56:35,577: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 13:00:38,624: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 13:00:38,626: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 13:00:38,627: INFO: common: Created directory at: artifacts]
+[2024-01-07 13:00:38,628: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 13:00:38,629: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 13:00:41,741: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 13:00:41,934: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 13:00:41,936: INFO: common: Created directory at: artifacts]
+[2024-01-07 13:00:41,938: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 13:00:41,939: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 13:01:19,642: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 13:01:19,645: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 13:01:19,647: INFO: common: Created directory at: artifacts]
+[2024-01-07 13:01:19,648: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 13:01:19,648: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 13:01:41,547: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 13:01:41,549: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 13:01:41,550: INFO: common: Created directory at: artifacts]
+[2024-01-07 13:01:41,551: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 13:01:41,552: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 13:04:34,217: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 13:04:34,219: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 13:04:34,221: INFO: common: Created directory at: artifacts]
+[2024-01-07 13:04:34,222: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 13:04:34,222: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 13:24:49,172: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 13:24:51,173: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 15:50:13,353: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 15:50:13,357: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 15:50:13,359: INFO: common: Created directory at: artifacts]
+[2024-01-07 15:50:13,361: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 15:50:13,362: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 15:51:13,273: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 15:51:13,276: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 15:51:13,277: INFO: common: Created directory at: artifacts]
+[2024-01-07 15:51:13,279: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 15:51:13,280: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 15:53:29,965: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 15:53:29,968: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 15:53:29,969: INFO: common: Created directory at: artifacts]
+[2024-01-07 15:53:29,970: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 15:53:29,971: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 15:55:32,550: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 15:55:32,552: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 15:55:32,554: INFO: common: Created directory at: artifacts]
+[2024-01-07 15:55:32,554: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 15:55:32,555: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 15:55:32,896: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 15:58:12,769: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 15:58:12,771: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 15:58:12,772: INFO: common: Created directory at: artifacts]
+[2024-01-07 15:58:12,774: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 15:58:12,775: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 15:58:12,776: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 15:58:13,953: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-07 15:58:14,113: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-07 16:08:29,142: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:08:29,144: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:08:29,145: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:08:29,146: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 16:08:29,147: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 16:08:29,148: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 16:10:13,962: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:10:13,964: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:10:13,966: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:10:13,967: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 16:10:13,968: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 16:10:13,969: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 16:13:35,210: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:13:35,212: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:13:35,213: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:13:35,214: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 16:13:35,216: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 16:13:35,217: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 16:14:45,387: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:14:45,390: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:14:45,391: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:14:45,392: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 16:14:45,393: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 16:14:45,395: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 16:15:15,746: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:15:15,749: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:15:15,750: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:15:15,751: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 16:15:15,752: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 16:15:15,754: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 16:19:37,511: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:19:37,514: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:19:37,515: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:19:37,516: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 16:19:37,516: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 16:19:37,518: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 16:20:08,975: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:20:08,977: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:20:08,978: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:20:08,979: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 16:20:08,980: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 16:20:08,981: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 16:20:15,306: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-01-07 16:49:32,373: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 16:49:34,768: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 16:51:12,288: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 16:51:12,395: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 16:56:46,824: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 16:56:46,930: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 16:56:47,327: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 16:56:47,442: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 16:56:47,444: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 16:56:47,445: INFO: common: Created directory at: artifacts]
+[2024-01-07 16:56:47,446: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 16:56:47,502: ERROR: main: <urlopen error [Errno 11001] getaddrinfo failed>]
+Traceback (most recent call last):
+  File "D:\anaconda3\Lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "D:\anaconda3\Lib\http\client.py", line 1286, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "D:\anaconda3\Lib\http\client.py", line 1332, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "D:\anaconda3\Lib\http\client.py", line 1281, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\anaconda3\Lib\http\client.py", line 1041, in _send_output
+    self.send(msg)
+  File "D:\anaconda3\Lib\http\client.py", line 979, in send
+    self.connect()
+  File "D:\anaconda3\Lib\http\client.py", line 1451, in connect
+    super().connect()
+  File "D:\anaconda3\Lib\http\client.py", line 945, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\socket.py", line 827, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Chicken-Disease-Classification--Project\main.py", line 13, in <module>
+    data_ingestion.main()
+  File "D:\Chicken-Disease-Classification--Project\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 17, in main
+    data_ingestion.download_file()
+  File "D:\Chicken-Disease-Classification--Project\src\cnnClassifier\components\data_ingestion.py", line 16, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\urllib\request.py", line 241, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+                            ^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\urllib\request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "D:\anaconda3\Lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+[2024-01-07 17:00:35,802: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 17:00:38,736: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 17:00:46,028: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 17:00:46,052: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 17:00:46,053: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 17:00:46,055: INFO: common: Created directory at: artifacts]
+[2024-01-07 17:00:46,055: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 17:00:50,573: INFO: data_ingestion: artifacts/data_ingestion/data.zip download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9550:4605:29D46D7:334D320:659A8BB8
+Accept-Ranges: bytes
+Date: Sun, 07 Jan 2024 11:32:12 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10234-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704627130.428725,VS0,VE2260
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8b3fc7b786695198122d97ce80af95980f7b3d38
+Expires: Sun, 07 Jan 2024 11:37:12 GMT
+Source-Age: 2
+
+]
+[2024-01-07 17:00:50,975: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 17:00:50,977: INFO: main: ****************]
+[2024-01-07 17:00:50,977: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 17:00:50,979: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 17:00:50,980: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 17:00:50,980: INFO: common: Created directory at: artifacts]
+[2024-01-07 17:00:50,981: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 17:00:55,692: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-07 17:01:00,351: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-07 17:01:02,284: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 17:01:04,065: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x========x]
+[2024-01-07 17:01:04,065: INFO: main: ****************]
+[2024-01-07 17:01:04,066: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-01-07 17:01:04,071: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 17:01:04,074: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 17:01:04,075: INFO: common: Created directory at: artifacts]
+[2024-01-07 17:01:04,076: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 17:01:04,077: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 17:01:04,141: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 17:01:14,645: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-01-07 17:01:53,289: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x========x]
