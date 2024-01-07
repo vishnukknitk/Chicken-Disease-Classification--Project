@@ -608,3 +608,190 @@ x========x]
 [2024-01-07 17:01:53,289: INFO: main: >>>>>> stage Training completed <<<<<<
 
 x========x]
+[2024-01-07 18:42:42,722: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 18:42:42,728: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 18:42:42,730: INFO: common: Created directory at: artifacts]
+[2024-01-07 18:43:36,021: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 18:43:36,023: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 18:43:36,024: INFO: common: Created directory at: artifacts]
+[2024-01-07 18:43:39,557: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-01-07 18:51:28,289: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 18:51:28,292: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 18:51:28,293: INFO: common: Created directory at: artifacts]
+[2024-01-07 18:52:55,249: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 18:52:55,251: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 18:52:55,253: INFO: common: Created directory at: artifacts]
+[2024-01-07 18:57:58,951: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 18:57:58,953: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 18:57:58,954: INFO: common: Created directory at: artifacts]
+[2024-01-07 18:58:08,351: INFO: common: json file saved at: score.json]
+[2024-01-07 19:04:09,503: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:04:09,506: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:04:09,507: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:04:18,848: INFO: common: json file saved at: score.json]
+[2024-01-07 19:04:26,551: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:04:26,554: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:04:26,555: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:06:29,414: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:06:29,417: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:06:29,418: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:06:52,926: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:06:52,928: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:06:52,929: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:07:28,929: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:07:28,932: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:07:28,933: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:07:51,546: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:07:51,548: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:07:51,549: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:10:37,147: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:10:37,148: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:10:37,150: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:11:41,294: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:11:41,297: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:11:41,298: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:19:59,024: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:19:59,030: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:19:59,032: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:21:09,310: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:21:09,313: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:21:09,314: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:21:49,393: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:21:49,398: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:21:49,400: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:25:53,503: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:25:53,505: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:25:53,506: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:27:10,853: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:27:10,855: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:27:10,856: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:27:37,544: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:27:37,546: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:27:37,547: INFO: common: Created directory at: artifacts]
+[2024-01-07 19:29:11,134: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 19:29:11,135: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 19:29:11,136: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:02:46,513: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 21:02:51,814: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 21:03:01,662: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 21:03:01,682: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:03:01,684: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:03:01,685: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:03:01,686: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 21:03:19,735: INFO: data_ingestion: artifacts/data_ingestion/data.zip download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 6D7A:43E7:2C54FE3:3603D32:659AC483
+Accept-Ranges: bytes
+Date: Sun, 07 Jan 2024 15:34:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10240-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704641670.578969,VS0,VE11402
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2e7b52b20616b6b6a4b8b19d9787593d80ab2466
+Expires: Sun, 07 Jan 2024 15:39:40 GMT
+Source-Age: 11
+
+]
+[2024-01-07 21:03:20,201: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 21:03:20,202: INFO: main: ****************]
+[2024-01-07 21:03:20,202: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 21:03:20,209: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:03:20,215: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:03:20,217: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:03:20,218: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 21:03:28,038: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-07 21:03:33,339: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-07 21:03:35,288: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 21:03:36,304: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x========x]
+[2024-01-07 21:03:36,305: INFO: main: ****************]
+[2024-01-07 21:03:36,305: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-01-07 21:03:36,311: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:03:36,314: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:03:36,315: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:03:36,315: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 21:03:36,316: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 21:03:36,329: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 21:03:47,502: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-01-07 21:04:16,066: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x========x]
+[2024-01-07 21:04:16,067: INFO: main: ****************]
+[2024-01-07 21:04:16,067: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-01-07 21:04:16,074: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:04:16,078: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:04:16,079: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:04:24,961: ERROR: main: name 'STATE_NAME' is not defined]
+Traceback (most recent call last):
+  File "D:\Chicken-Disease-Classification--Project\main.py", line 55, in <module>
+    logger.info(f">>>>>> stage {STATE_NAME} completed <<<<<<\n\nx========x")
+                                ^^^^^^^^^^
+NameError: name 'STATE_NAME' is not defined
+[2024-01-07 21:05:18,510: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 21:05:20,739: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 21:05:22,235: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 21:05:22,237: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:05:22,238: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:05:22,238: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:05:22,239: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 21:05:22,239: INFO: data_ingestion: File already exists of size: 11616915]
+[2024-01-07 21:05:22,362: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 21:05:22,363: INFO: main: ****************]
+[2024-01-07 21:05:22,363: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 21:05:22,364: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:05:22,365: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:05:22,366: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:05:22,366: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 21:05:22,503: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-07 21:05:22,567: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-07 21:05:22,887: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 21:05:23,306: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x========x]
+[2024-01-07 21:05:23,306: INFO: main: ****************]
+[2024-01-07 21:05:23,307: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-01-07 21:05:23,308: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:05:23,309: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:05:23,310: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:05:23,310: INFO: common: Created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-01-07 21:05:23,310: INFO: common: Created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-01-07 21:05:23,311: INFO: common: Created directory at: artifacts\training]
+[2024-01-07 21:05:24,337: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-01-07 21:05:51,166: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x========x]
+[2024-01-07 21:05:51,167: INFO: main: ****************]
+[2024-01-07 21:05:51,167: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-01-07 21:05:51,172: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 21:05:51,174: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 21:05:51,175: INFO: common: Created directory at: artifacts]
+[2024-01-07 21:05:59,746: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x========x]
