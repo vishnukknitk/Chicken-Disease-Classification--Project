@@ -1,0 +1,336 @@
+[2024-01-07 00:13:34,366: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 00:13:34,368: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 00:13:34,369: INFO: common: Created directory at: artifacts]
+[2024-01-07 00:13:52,651: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 00:13:52,653: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 00:13:52,655: INFO: common: Created directory at: artifacts]
+[2024-01-07 00:13:52,656: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 00:13:57,876: INFO: 1282072631: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4DA2:0B3C:26105D6:2EAF3A5:65999FBB
+Accept-Ranges: bytes
+Date: Sat, 06 Jan 2024 18:45:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10244-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704566717.919695,VS0,VE2164
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 061069ec88ada508c65e6986e51c700f384acdd7
+Expires: Sat, 06 Jan 2024 18:50:19 GMT
+Source-Age: 2
+
+]
+[2024-01-07 00:14:39,512: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 00:14:39,515: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 00:14:39,516: INFO: common: Created directory at: artifacts]
+[2024-01-07 00:14:39,517: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 00:14:39,518: INFO: 4054275685: File already exists of size: 11345 KB]
+[2024-01-07 00:24:00,975: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 00:24:00,976: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 00:24:00,977: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 00:24:00,978: INFO: common: Created directory at: artifacts]
+[2024-01-07 00:24:00,978: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 00:24:00,978: INFO: data_ingestion: File already exists of size: 11616915]
+[2024-01-07 00:24:01,082: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 08:26:54,670: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 08:26:54,680: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 08:26:54,688: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 08:26:54,688: INFO: common: Created directory at: artifacts]
+[2024-01-07 08:26:54,688: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 08:26:56,583: INFO: data_ingestion: artifacts/data_ingestion/data.zip download with following info: 
+Server: GitHub.com
+Date: Sun, 07 Jan 2024 02:58:19 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, X-PJAX-Container, Turbo-Visit, Turbo-Frame, Accept-Encoding, Accept, X-Requested-With
+ETag: W/"fc63415d1d724d8e821fc408cbf0514c"
+Cache-Control: max-age=0, private, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'none'; base-uri 'self'; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events api.githubcopilot.com objects-origin.githubusercontent.com *.actions.githubusercontent.com wss://*.actions.githubusercontent.com productionresultssa0.blob.core.windows.net/ productionresultssa1.blob.core.windows.net/ productionresultssa2.blob.core.windows.net/ productionresultssa3.blob.core.windows.net/ productionresultssa4.blob.core.windows.net/ productionresultssa5.blob.core.windows.net/ productionresultssa6.blob.core.windows.net/ productionresultssa7.blob.core.windows.net/ productionresultssa8.blob.core.windows.net/ productionresultssa9.blob.core.windows.net/ github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com support.github.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com secured-user-images.githubusercontent.com/ user-images.githubusercontent.com/ private-user-images.githubusercontent.com opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com objects-origin.githubusercontent.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/ private-user-images.githubusercontent.com github-production-user-asset-6210df.s3.amazonaws.com gist.github.com; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; upgrade-insecure-requests; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
+Set-Cookie: _gh_sess=FnrWnKlmVjbms1Zt7gxB9jk1qEaJD%2FCKT%2Fh6LfOYfRnonZs1sqf62BXjdsSC33BfOt2iQlesyI%2BmjBkM%2Bf1%2BvqLiYAwqf7UAA3FPxKO8YOS6hfci2tRDpW6JW8kmKcyrhcsQX0cyzWh%2BxaeuC0rA99nZlR9J%2FTgxcCUgr87BD78IgXWjzfWqgTwdBF%2BNwS6mh9iDYijEfxqAfBXQsshWYVbnDeNG1oPQJnmbGlonh%2FFZnSRESoXxPtvD2CyrDoozhMsGRW5a5FumrF9wpy3x3A%3D%3D--Yk9mslUU6kUvbL%2FR--MQWiSJQbPnfyQai22gEKRA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1290975345.1704596299; Path=/; Domain=github.com; Expires=Tue, 07 Jan 2025 02:58:19 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Tue, 07 Jan 2025 02:58:19 GMT; HttpOnly; Secure; SameSite=Lax
+Accept-Ranges: bytes
+Transfer-Encoding: chunked
+X-GitHub-Request-Id: D535:337D6B:24A06A7:280CBD5:659A134B
+connection: close
+
+]
+[2024-01-07 08:26:56,583: ERROR: main: File is not a zip file]
+Traceback (most recent call last):
+  File "D:\Chicken-Disease-Classification--Project\main.py", line 11, in <module>
+    data_ingestion.main()
+  File "D:\Chicken-Disease-Classification--Project\src\cnnClassifier\pipeline\stage_01_data_ingestion.py", line 18, in main
+    data_ingestion.extract_zip_file()
+  File "D:\Chicken-Disease-Classification--Project\src\cnnClassifier\components\data_ingestion.py", line 33, in extract_zip_file
+    with zipfile.ZipFile(self.config.local_data_file, "r") as zip_ref:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\anaconda3\Lib\zipfile.py", line 1302, in __init__
+    self._RealGetContents()
+  File "D:\anaconda3\Lib\zipfile.py", line 1369, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[2024-01-07 08:30:41,693: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 08:30:41,693: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 08:30:41,693: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 08:30:41,693: INFO: common: Created directory at: artifacts]
+[2024-01-07 08:30:41,693: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 08:30:45,174: INFO: data_ingestion: artifacts/data_ingestion/data.zip download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C68E:0135:24B94E1:2E6B4F2:659A142C
+Accept-Ranges: bytes
+Date: Sun, 07 Jan 2024 03:02:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10241-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704596526.991536,VS0,VE1795
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 0c0cd0f26dbad7e0bed1c8ff0addf61205eb4227
+Expires: Sun, 07 Jan 2024 03:07:07 GMT
+Source-Age: 1
+
+]
+[2024-01-07 08:30:46,702: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 09:06:14,027: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 09:06:14,671: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 10:06:06,394: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:06:06,396: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:06:06,397: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:12:35,521: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:12:35,523: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:12:35,524: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:16:59,398: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:16:59,401: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:16:59,402: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:18:56,668: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:18:56,670: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:18:56,671: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:19:38,513: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:19:38,515: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:19:38,516: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:19:38,517: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:21:09,254: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:21:09,257: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:21:09,258: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:21:09,259: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:22:07,660: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:22:07,662: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:22:07,664: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:22:07,665: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:22:29,567: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:22:29,569: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:22:29,570: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:22:29,571: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:23:49,480: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:23:49,482: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:23:49,484: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:23:49,485: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:26:20,263: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:26:20,265: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:26:20,267: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:26:20,267: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:26:20,918: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-07 10:26:22,499: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-07 10:26:44,363: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 10:28:55,269: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:28:55,271: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:28:55,273: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:28:55,273: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:28:55,754: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 10:30:03,758: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 10:30:03,761: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 10:30:03,761: INFO: common: Created directory at: artifacts]
+[2024-01-07 10:30:03,762: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 10:30:04,254: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 10:50:58,610: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 10:51:01,945: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 10:55:18,315: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 10:55:18,492: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 11:00:11,921: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 11:00:12,024: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 11:00:12,396: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 11:00:12,398: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 11:00:12,399: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 11:00:12,400: INFO: common: Created directory at: artifacts]
+[2024-01-07 11:00:12,400: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 11:00:55,430: INFO: data_ingestion: artifacts/data_ingestion/data.zip download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5E46:10FB:130C4BE:17754F3:659A3738
+Accept-Ranges: bytes
+Date: Sun, 07 Jan 2024 05:32:16 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10235-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704605497.833158,VS0,VE39881
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8a9b5a9e32caa9b958a230e4c7207c59011c7582
+Expires: Sun, 07 Jan 2024 05:37:16 GMT
+Source-Age: 38
+
+]
+[2024-01-07 11:00:55,702: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 11:00:55,703: INFO: main: ****************]
+[2024-01-07 11:00:55,703: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 11:00:55,703: ERROR: main: name 'configurationManager' is not defined]
+Traceback (most recent call last):
+  File "D:\Chicken-Disease-Classification--Project\main.py", line 24, in <module>
+    prepare_base_model.main()
+  File "D:\Chicken-Disease-Classification--Project\src\cnnClassifier\pipeline\stage_02_prepare_base_model.py", line 14, in main
+    config = configurationManager()
+             ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'configurationManager' is not defined
+[2024-01-07 11:01:52,159: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 11:01:52,266: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 11:01:52,642: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 11:01:52,643: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 11:01:52,644: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 11:01:52,645: INFO: common: Created directory at: artifacts]
+[2024-01-07 11:01:52,645: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 11:01:55,371: INFO: data_ingestion: artifacts/data_ingestion/data.zip download with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5E46:10FB:130C4BE:17754F3:659A3738
+Accept-Ranges: bytes
+Date: Sun, 07 Jan 2024 05:33:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10226-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1704605597.074424,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: df92af9d46847fb7cfa3fab23c08a61d76e7734d
+Expires: Sun, 07 Jan 2024 05:38:17 GMT
+Source-Age: 98
+
+]
+[2024-01-07 11:01:55,503: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 11:01:55,503: INFO: main: ****************]
+[2024-01-07 11:01:55,503: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 11:01:55,504: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 11:01:55,506: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 11:01:55,507: INFO: common: Created directory at: artifacts]
+[2024-01-07 11:01:55,507: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 11:01:55,507: ERROR: main: cannot access local variable 'prepare_base_model' where it is not associated with a value]
+Traceback (most recent call last):
+  File "D:\Chicken-Disease-Classification--Project\main.py", line 24, in <module>
+    prepare_base_model.main()
+  File "D:\Chicken-Disease-Classification--Project\src\cnnClassifier\pipeline\stage_02_prepare_base_model.py", line 16, in main
+    prepare_base_model = PrepareBaseModel(config=prepare_base_model)
+                                                 ^^^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'prepare_base_model' where it is not associated with a value
+[2024-01-07 11:04:38,245: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 11:04:38,351: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 11:04:38,734: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 11:04:38,735: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 11:04:38,736: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 11:04:38,737: INFO: common: Created directory at: artifacts]
+[2024-01-07 11:04:38,737: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 11:04:38,737: INFO: data_ingestion: File already exists of size: 11616915]
+[2024-01-07 11:04:38,845: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 11:04:38,845: INFO: main: ****************]
+[2024-01-07 11:04:38,845: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 11:04:38,846: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 11:04:38,847: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 11:04:38,847: INFO: common: Created directory at: artifacts]
+[2024-01-07 11:04:38,848: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 11:04:38,848: ERROR: main: cannot access local variable 'prepare_base_model' where it is not associated with a value]
+Traceback (most recent call last):
+  File "D:\Chicken-Disease-Classification--Project\main.py", line 24, in <module>
+    prepare_base_model.main()
+  File "D:\Chicken-Disease-Classification--Project\src\cnnClassifier\pipeline\stage_02_prepare_base_model.py", line 14, in main
+    prepare_base_model = PrepareBaseModel(config=prepare_base_model)
+                                                 ^^^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'prepare_base_model' where it is not associated with a value
+[2024-01-07 11:05:28,063: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-01-07 11:05:28,168: INFO: utils: NumExpr defaulting to 8 threads.]
+[2024-01-07 11:05:28,540: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-07 11:05:28,542: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 11:05:28,542: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 11:05:28,543: INFO: common: Created directory at: artifacts]
+[2024-01-07 11:05:28,543: INFO: common: Created directory at: artifacts/data_ingestion]
+[2024-01-07 11:05:28,543: INFO: data_ingestion: File already exists of size: 11616915]
+[2024-01-07 11:05:28,649: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x========x]
+[2024-01-07 11:05:28,649: INFO: main: ****************]
+[2024-01-07 11:05:28,649: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-01-07 11:05:28,650: INFO: common: yaml file:config\config.yaml loaded successfully]
+[2024-01-07 11:05:28,651: INFO: common: yaml file:params.yaml loaded successfully]
+[2024-01-07 11:05:28,652: INFO: common: Created directory at: artifacts]
+[2024-01-07 11:05:28,652: INFO: common: Created directory at: artifacts/prepare_base_model]
+[2024-01-07 11:05:30,046: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-01-07 11:05:30,143: WARNING: module_wrapper: From D:\anaconda3\Lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-01-07 11:05:30,536: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-01-07 11:05:30,721: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x========x]
